@@ -81,3 +81,11 @@ body {
   padding: 10px;
   border-radius: 5px;
 }
+.pelatihan ul li {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
